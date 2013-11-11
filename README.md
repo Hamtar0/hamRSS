@@ -1,4 +1,6 @@
 hamRSS
 ======
+Plugin pour [Pluxml](http://www.pluxml.org/), CMS sans base de données.  
+Il permet de rediriger le flux RSS des articles vers le service choisi.  
 
-Utilisation d'un service extérieur de gestion du flux RSS
+Compatible [FeedPress](http://feedpress.it/) et FeedBurner
