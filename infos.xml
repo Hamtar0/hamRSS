@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+        <title><![CDATA[hamRSS]]></title>
+        <author><![CDATA[Damien Guillot]]></author>
+        <version>1.0</version>
+        <date>10/11/2013</date>
+        <site>http://labo.customtaro.fr</site>
+        <description><![CDATA[Utilisation d'un service extérieur de gestion du flux RSS]]></description>
+        <requirements></requirements>
+</document>
