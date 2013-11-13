@@ -2,8 +2,8 @@
 /**
  * Plugin hamRSS
  *
- * @version        1.0
- * @date        10/11/2013
+ * @version        1.01
+ * @date        13/11/2013
  * @author        Damien Guillot
  **/
 class hamRSS extends plxPlugin {

@@ -2,7 +2,7 @@
 <document>
         <title><![CDATA[hamRSS]]></title>
         <author><![CDATA[Damien Guillot]]></author>
-        <version>1.0</version>
+        <version>1.01</version>
         <date>10/11/2013</date>
         <site>http://labo.customtaro.fr</site>
         <description><![CDATA[Utilisation d'un service extérieur de gestion du flux RSS]]></description>
