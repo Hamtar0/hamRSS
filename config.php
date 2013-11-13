@@ -17,8 +17,7 @@ $style = ($plxPlugin->getParam('activate')=='ok') ? 'success' : 'danger';
 ?>
 <style type="text/css">
 <!--
-  @import url("//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css");
-  @import url("//netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap-theme.min.css");
+  @import url("../../plugins/hamRSS/style.css");
 -->
 </style>
 <div class="container pull-left">
