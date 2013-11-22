@@ -17,7 +17,7 @@ $style = ($plxPlugin->getParam('activate')=='ok') ? 'success' : 'danger';
 ?>
 <style type="text/css">
 <!--
-  @import url("../../plugins/hamRSS/style.css");
+  @import url("<?php echo PLX_PLUGINS ?>hamRSS/style.css");
 -->
 </style>
 <div class="container pull-left">
